@@ -1,19 +1,90 @@
 TITLE: First year in Physics at the University of Oslo
-AUTHOR: "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" {copyright, 1999-present|CC BY-NC} at Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA & Department of Physics, University of Oslo, Norway
-AUTHOR: "Scott Pratt":"https://pa.msu.edu/profile/pratts/"  at Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory, Michigan State University, USA
-AUTHOR: "Carl Schmidt":"https://pa.msu.edu/profile/schmidt/" at Department of Physics and Astronomy, Michigan State University, USA
+AUTHOR: Joakim Bergli at Department of Physics, University of Oslo, Norway
+AUTHOR: Nina Frederike J. Edin at Department of Physics, University of Oslo, Norway
+AUTHOR: "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" at Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory/Facility for Rare Ion Beams, Michigan State University, USA & Department of Physics and Center For Computing in Science Education, University of Oslo, Norway
 DATE: today
 
 
 
-===== Introduction =====
+===== Introduction and Motivation =====
 
 ===== Present situation with description of courses, bachelor degree in Physics and Astronomy  =====
 
+|---------|
+| First semester, Fall | |  |
+|---------|
+| MAT 1100  | MAT-INF1100 | IN1900 |
+|---------|
+| Second  semester, Spring | | |
+|---------|
+| MAT 1110  | MEK1100 | FYS-MEK1100 |
+|---------|
 
 
+Present content (learning outcomes)
+
+=== Fall semester ===
+
+o "MAT1100":"https://www.uio.no/studier/emner/matnat/math/MAT1100/index-eng.html"
+ - are familiar with the complex numbers and can calculate with them on Cartesian and polar form;
+ - are familiar with the Completeness Principle for the real numbers and know how it is used in creating the theory of functions of one variable;
+ - know how to define conituity, limits, derivatives, and integrals precisely, and can compute limits, derivatives, and integrals of functions of one variable;
+ - are familiar with vectors and matrices and can use them for simple calculations;
+ - know what functions of several variables are, can determine whether they are continuous and differentiable, and can compute and interpret directional derivatives and partial derivatives;
+ - can use the theory in the course to solve modeling problems, especially problems concerning integration, optimization, and related rates.
+
+o "MAT-INF1100":"https://www.uio.no/studier/emner/matnat/math/MAT-INF1100/index-eng.html"
+
+ - are familiar with the basic properties of integer and real numbers, how they are represented in a  - computer, and limitations of the representations;
+ - can find formulas for the solution of some difference and differential equations;
+ - are familiar with and can program numerical methods for approximate calculation of the derivative and the integral of general functions, as well as approximate solutions of equations, difference equations and differential equations;
+ - are familiar with the general limitations of numerical methods discussed in the course and are able to estimate their errors using Taylor polynomials with remainder and the principles for representing real numbers in a computer;
+ - can derive simple mathematical models for practical problems using derivatives, integrals and different kinds of equations;
+ - are able to carry out proofs by induction, argue out simple, mathematical arguments, and present your reasoning in a clear and transparent way with suitable notation and terminology.    
+
+o "IN1900":"https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html"
+
+ - be able to write programs that solve math problems you encounter in MAT-INF1100 – Modelling and Computations and MAT1100 – Calculus.
+ - have basic skills in Python programming using data structures, functions, classes, objects, modules and vectorized calculations
+ - be able to create program sketches and algorithms based on a mathematical specification of a science problem
+ - be able to create solutions to minor real issues on a computer with user interaction, graphics (plot, animations) and storage/reading of data to/from disk
+ - be able to use a variety of Python modules in self-interaction interaction to integrate, derive, find zeroes, calculate boundary values and sequences, and solve differential and differential equations from physics, biology and finance
+ - be able to construct, find and correct errors in your own programs
+ - be able to construct tests to verify that computer programs work properly
+
+
+=== Spring semester ===
+
+o MAT1110
+
+o MEK1100
+
+o FYS-MEK
 
 ===== Revised first year =====
 
-===== Specific content =====
+|---------|
+| First semester, Fall | |  |
+|---------|
+| MAT 1100  | FYS11XX Mechanics and modeling | IN1900 |
+|---------|
+| Second  semester, Spring | | |
+|---------|
+| MAT 1110  | FYS12XX Classical Mechanics | FYS13XX Statistics, probability and data analysis for physicists |
+|---------|
 
+
+
+
+
+===== Specific content of new courses =====
+
+
+
+
+
+
+
+
+
+    
