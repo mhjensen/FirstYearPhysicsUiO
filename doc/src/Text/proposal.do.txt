@@ -55,11 +55,33 @@ o "IN1900":"https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html"
 
 === Spring semester ===
 
-o MAT1110
+o "MAT1110":"https://www.uio.no/studier/emner/matnat/math/MAT1110/index-eng.html"
 
-o MEK1100
+ - can parametrize curves and surfaces and use these representations to create graphical figures and to compute arc length, line integrals and surface area;
+ - know the definition of double and triple integrals, can calculate such integrals by means of different coordinate representations, and use them to solve practical problems;
+ - can solve theoretical and practical optimization problems with and without constraints;
+ - are familiar with the completeness property of Euclidean spaces, know how they form a foundation for numerical methods, and can write programs in MATLAB or Python to find zeros and fixed points of functions;
+ - master Gauss elimination, are familiar with the concepts of linear independence and basis, and can find eigenvalues and eigenvectors and use them to analyze practical problems from both an analytical and a numerical perspective;
+ - know what it means for a series to converge, can use tests to decide convergence and find domains of convergence, and can determine the Taylor series of a function;
+ - can carry out simple mathematical arguments and computations and present them in a clear and coherent way with suitable notation and terminology.
 
-o FYS-MEK
+o "MEK1100":"https://www.uio.no/studier/emner/matnat/math/MEK1100/index-eng.html"
+
+ - have knowledge about scaling, the significance of physical units and dimensionless parameters;
+ - can compute gradient and directional derivative, divergence and curl, equiscalar surfaces, field lines, curve integrals and circulation, surface integrals and flux, pressure force, particle derivative, in Cartesian and curvilinear coordinates, and have knowledge of the physical interpretation of these quantities;
+ - can apply Gauss and Stokes theorems;
+ - can apply potential and stream functions and have knowledge about potential flow;
+ - can use the computer to visualize scalar and vector fields and to do numerical computations of fields;
+ - have knowledge about the mass conservation equation and the equation of motion of fluids, Bernoulli´s equation for stationary ideal liquid flow, heat and temperature computations with convection and Fourier´s law.
+
+o "FYS-MEK":"https://www.uio.no/studier/emner/matnat/fys/FYS-MEK1110/index-eng.html"
+
+ - be able to analyze forces that act on objects, apply Newton’s laws to determine the equations of motion, and solve these both analytically and numerically,
+ - be able to describe the rotational motion of rigid bodies using torque, moment of inertia, and angular momentum, and apply Newton’s second law for rotational motion to solve the equations of motion,
+ - be able to apply conservation laws for mechanical energy, momentum, and angular momentum to solve static and dynamic problems and to analyze collisions between bodies,
+ - know the definitions that are relevant for elasticity theory,
+ - be able to apply Lorentz transformations for position and velocity and explain length contraction and time dilation,
+ - be able to apply different strategies to solve specific problems, introduce approximations if necessary, and interpret results and discuss these in a wider context.
 
 ===== Revised first year =====
 
@@ -72,9 +94,6 @@ o FYS-MEK
 |---------|
 | MAT 1110  | FYS12XX Classical Mechanics | FYS13XX Statistics, probability and data analysis for physicists |
 |---------|
-
-
-
 
 
 ===== Specific content of new courses =====
