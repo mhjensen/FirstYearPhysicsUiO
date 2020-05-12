@@ -8,7 +8,36 @@ DATE: today
 
 ===== Introduction and Motivation =====
 
-More text will be added here later.
+Students of the Physics and Astronomy bachelor program as well as
+faculty at the department of Physics (DP) and Institute of Theoretical
+Astrophysics (ITA) have often remarked that there is a lack of Physics
+topics in the first year of study, and in particular during the first
+semester. 
+
+To remedy on this we propose here 
+a new first year in Physics and Astronomy where
+the aim is to integrate theory, computations and experiments in a
+coherent way, including much of the same mathematical and
+computational aspects included in MAT-INF1100 and MEK1100 but now
+tailored to a Physics and Astronomy perspective, with a strong focus
+on an overarching understanding of the scientific method and its
+various elements. We propose three new courses, with a great potential for pedagogical innovations.
+These courses are integrated with central first year courses in Mathematics and Computing. 
+
+All three new courses will include experiments which can be integrated
+with a numerical perspective using applications on smartphones and
+kits like "Arduino":"https://en.wikipedia.org/wiki/Arduino".  A
+central benefit here is that students can carry out experiments at
+home or outside a standard lab environment. Furthermore, the
+integration of experiments with a programming perspectives allows
+students to carry out experiments and upload data to their computing
+devices (laptops/PCs/Tablets) for further analyses, interpretations
+and discussions.  To strengthen the understanding of Physics being an
+experimental disciplines we introduce also a new course on Statistics,
+Probability and Data Analysis for Physicists in the second
+semester. This course aims at a more coherent introduction of central
+elements from statistics needed in theoretical and experimental
+studies.
 
 
 ===== Present situation with description of courses, bachelor degree in Physics and Astronomy  =====
@@ -103,7 +132,7 @@ tailored to a Physics and Astronomy perspective, with a strong focus
 on an overarching understanding of the scientific method and its
 various elements.
 
-All three new courses will include experiments which canbe integrated
+All three new courses will include experiments which can be integrated
 with a numerical perspective using applications on smartphones and
 kits like "Arduino":"https://en.wikipedia.org/wiki/Arduino".  A
 central benefit here is that students can carry out experiments at
@@ -138,13 +167,78 @@ The first year of study could then look like this if we aim at keeping courses o
 
 ===  FYS11XX Mechanics and Modeling ===
 
+The Mechanics and Modeling course integrates central elements from MAT-INF1100 and FYS-MEK1100. The basic Mechanics content from FYS-MEK1100 is kept, that is we focus on elementary Newtonian mechanics  and students will (optimally covered by chapters 1-13 of Malthe-Sørenssen)
+
+ * be able to analyze forces that act on objects, apply Newton’s laws to determine the equations of motion, and solve these both analytically and numerically;
+ * be able to describe the rotational motion of rigid bodies using torque, moment of inertia, and angular momentum, and apply Newton’s second law for rotational motion to solve the equations of motion;
+ * be able to apply conservation laws for mechanical energy, momentum, and angular momentum to solve static and dynamic problems and to analyze collisions between bodies.
+
+These concepts will be integrated with a computational approach where central algorithms for solving equations of motion of motion are introduced. This includes elements from MAT-INF1100 central to studies of differential equations and numerical solutions of integrals.  To be more explicit this means that the students 
+ * are familiar with the basic properties of integer and real numbers, how they are represented in a computer, and limitations of the representations;
+ * can find formulas for the solution of some difference and differential equations;
+ * are familiar with and can program numerical methods for approximate calculation of the derivative and the integral of general functions, as well as approximate solutions of equations, difference equations and differential equations;
+ * are familiar with the general limitations of numerical models for solving differential equations and integrals. Central methods for solving differential equations are the family of Euler- and modified Euler methods, the Velocity Verlet method and the family of Runge-Kutta methods. For integrals, standard Newton-Cotes quadrature methods like the midpoint rule, the Trapezoidal and Simpson's rule will be presented. 
+ * can derive simple mathematical models for practical problems using derivatives, integrals and different kinds of equations;
+
+In addition this course will include a set of selected simple experiments using the accelerometer on a standard smartphone. Students will then transfer the data to their own laptops/PCs/Tablets and perform a final analysis of the data such as calculating the velocity and the position based on the measured acceleration. The uncertainties with the measurements will be addressed in the second semester in the course FYS13XX. 
+
+This course is integrated with IN1900 and MAT1100. 
+
 
 
 === FYS12XX Classical Mechanics ===
 
+This course is a continuation of FYS11XX and includes more
+advanced topics tailored to Physics and Astronomy students. The
+integration of central theoretical, computational and experimental elements as well as a coordination
+with FYS13XX and MAT1110 plays an important role. In addition to more advanced topics in mechanics not discussed in FYS-MEK1100, this course includes elements from MEK1100.
+
+The topics are
+
+* Repetition of central elements from FYS11XX, Newton's laws, conservation laws and solutions of equations of motion
+* Variational and Lagrangian Calculus with examples and derivation of equations of motion
+* Two-body problems and central forces, Kepler's laws, Gravitational problems, classical two-body scattering
+* Oscillations, Driven and damped oscillations, coupled oscillations and Fourier series
+* Mechanics and Equations of motion in non-inertial frames, accelerating and rotating frames, Coriolis and Centrifugal forces. Numerical and analytical solutions of equations of motion.
+* Rigid body kinematics and Dynamics. Numerical and analytical solutions of equations of motion.
+* Special Relativity
+* Hamilton's principle and Hamiltonian mechanics. Understanding important symplectic differential equations and energy conservation.
+* Basic elements from fluid mechanics, mass conservation equation and the equation of motion of fluids, Bernoulli´s equation for stationary ideal liquid flow, heat and temperature computations with convection and Fourier´s law. 
+* Knowledge of scaling, the significance of physical units and dimensionless parameters
+* Gradient and directional derivative, divergence and curl, equiscalar surfaces, field lines, curve integrals and circulation, surface integrals and flux, pressure force, particle derivative, in Cartesian and curvilinear coordinates, and have knowledge of the physical interpretation of these quantities
+* Basic understanding of Gauss and Stokes theorems in mechanics examples
+* can use the computer to visualize scalar and vector fields and to do numerical computations of fields
+* _Discuss which experiments to include_!
+
 === FYS13XX Statistics, probability and data analysis for physicists ===
 
+These topics have normally been taught in a scattered way in different
+courses. This means that the students are never exposed to a coherent
+view of central elements of probability theory, statistics and data
+analysis. The aim here is to establish such a course, integrating the
+needed statistical theory with computations and analysis of
+theoretical simulations and experimental results. Central topics are
 
+o Basic concepts
+ * Randomness and probability, basic principles
+ * Distributions, moments and errors. Central concepts like moments and essential distributions (Gaussian, Binomial, Poisson, uniform, exponential, log-normal etc), central limit theorem
+o Distributions in the physical world
+ * Distributions in the physical world, examples from different types of experiments
+ * Confidence intervals
+ * Statistics with binomial, Poisson and Gaussian distributions
+ * Random processes and distributions arising from these
+ * Random numbers and Monte Carlo methods
+o Probabilistic inference
+ * Hypothesis testing and Bayesian approach to probability
+ * Parameter estimation
+ * Correlation testing and covariance
+ * Computations and model fitting
+o Frequentist inference and simple Machine Learning algorithms
+ * Linear and Logistic regression, regression and classification problems
+ * Decision trees and Random forests
+ * Simple Neural networks
+
+Need to discuss which experiments we can do that can be integrated with FYS12XX. 
 
 
 
