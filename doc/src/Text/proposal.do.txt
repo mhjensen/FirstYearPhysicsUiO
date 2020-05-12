@@ -170,7 +170,6 @@ The first year of study could then look like this if we aim at keeping courses o
 The Mechanics and Modeling course integrates central elements from MAT-INF1100 and FYS-MEK1100. The basic Mechanics content from FYS-MEK1100 is kept, that is we focus on elementary Newtonian mechanics  and students will (optimally covered by chapters 1-13 of Malthe-Sørenssen)
 
  * be able to analyze forces that act on objects, apply Newton’s laws to determine the equations of motion, and solve these both analytically and numerically;
- * be able to describe the rotational motion of rigid bodies using torque, moment of inertia, and angular momentum, and apply Newton’s second law for rotational motion to solve the equations of motion;
  * be able to apply conservation laws for mechanical energy, momentum, and angular momentum to solve static and dynamic problems and to analyze collisions between bodies.
 
 These concepts will be integrated with a computational approach where central algorithms for solving equations of motion of motion are introduced. This includes elements from MAT-INF1100 central to studies of differential equations and numerical solutions of integrals.  To be more explicit this means that the students 
