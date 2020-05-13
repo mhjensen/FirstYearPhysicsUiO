@@ -12,21 +12,36 @@ Students of the Physics and Astronomy bachelor program as well as
 faculty at the department of Physics (DP) and Institute of Theoretical
 Astrophysics (ITA) have often remarked that there is a lack of Physics
 topics in the first year of study, and in particular during the first
-semester. 
+semester.
 
-To remedy on this we propose here 
-a new first year in Physics and Astronomy where
+The setup of the first year of study is also essentially the same
+since the fall semester of 2003, when the "Bologna process":"https://en.wikipedia.org/wiki/Bologna_Process"
+("Kvalitetsreformen":"https://no.wikipedia.org/wiki/Kvalitetsreformen") was introduced in Norway.
+
+Moreover, during the
+last decade we have seen several changes in competences and skills of the
+incoming students as well as improved computational and experimental
+software and hardware. In addition, pedagogical research and technological
+innovations with respect to alternative ways of organizing lectures
+such as flipped classrooms and more, are all topics we believe should
+be reflected in the way we organize our bachelor program and higher education in
+Physics and Astronomy. With the center of excellence in higher education _Center for Computing in Science Education_, we have also the possibility to accompany pedagogical changes with existing research on university education. 
+
+
+We propose here 
+a novel and new first year in Physics and Astronomy where
 the aim is to integrate theory, computations and experiments in a
 coherent way, including much of the same mathematical and
 computational aspects included in MAT-INF1100 and MEK1100 but now
 tailored to a Physics and Astronomy perspective, with a strong focus
 on an overarching understanding of the scientific method and its
-various elements. We propose three new courses, with a great potential for pedagogical innovations.
+various elements from day one.
+We propose three new courses, with a great potential for pedagogical innovations and pedagogical research as well.
 These courses are integrated with central first year courses in Mathematics and Computing. 
 
 All three new courses include experiments which can be integrated
 with a numerical perspective using applications on smartphones and
-kits like "Arduino":"https://en.wikipedia.org/wiki/Arduino".  A
+hardware like "Arduino":"https://en.wikipedia.org/wiki/Arduino".  A
 central benefit here is that students can carry out experiments at
 home or outside a standard lab environment. Furthermore, the
 integration of experiments with a programming perspectives allows
@@ -41,6 +56,8 @@ studies.
 
 
 ===== Present situation with description of courses, bachelor degree in Physics and Astronomy  =====
+
+All courses are scaled to ten ECTS ("European Credit Transfer and Accumulation  System":"https://ec.europa.eu/education/resources-and-tools/european-credit-transfer-and-accumulation-system-ects_en").
 
 |---------|
 | _First semester, Fall_ |
