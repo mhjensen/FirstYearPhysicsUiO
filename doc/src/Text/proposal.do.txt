@@ -269,7 +269,7 @@ experiments in FYS111X, FYS112X and FYS113X is planned for fall (late)
 
 =====  Coordination with other programs =====
 
-The course FYS-MEK1100 has also served as a recommened or compulsory course in other bacheloer of science programs. These are the
+The course FYS-MEK1100 has also served as a recommened or compulsory course in other bachelor of science programs. These are the
 o "Electronics, informatics and Technology, fourth semester":"https://www.uio.no/studier/program/elektronikk-it/oppbygging/"
 o "Geophysics and Climate, second semester":"https://www.uio.no/studier/program/geofysikk/oppbygging/"o "Geology and Geography, second semester":"https://www.uio.no/studier/program/geologi/oppbygging/"   o "Mathematics and Physics, fourth semester":"https://www.uio.no/studier/program/matematikk-informatikk/studieretninger/matematikk-fysikk/oppbygging/" 
 o "Mechanics and technology, fourth semester":"https://www.uio.no/studier/program/matematikk-informatikk/studieretninger/mekanikk-teknologi/oppbygging/"
@@ -299,7 +299,7 @@ education by integrating theory, experiments and computations. This has the pote
 to elucidate essential stages of the scientific process.
 
 There are several other interesting aspects which can define new
-educational research projects, in particular an integration of flipper
+educational research projects, in particular an integration of flipped
 classrooms that normally allow for a tighter connection between
 students and teachers (faculty, learning assistants and teaching
 assistants).
