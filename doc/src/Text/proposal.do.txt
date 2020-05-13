@@ -25,7 +25,7 @@ software and hardware. In addition, pedagogical research and technological
 innovations with respect to alternative ways of organizing lectures
 such as flipped classrooms and more, are all topics we believe should
 be reflected in the way we organize our bachelor program and higher education in
-Physics and Astronomy. With the center of excellence in higher education _Center for Computing in Science Education_, we have also the possibility to accompany pedagogical changes with existing research on university education. 
+Physics and Astronomy. With the center of excellence in higher education _Center for Computing in Science Education_, we have also the possibility to accompany pedagogical changes with ongoing and future  research programs on university education. 
 
 
 We propose here 
@@ -38,6 +38,8 @@ on an overarching understanding of the scientific method and its
 various elements from day one.
 We propose three new courses, with a great potential for pedagogical innovations and pedagogical research as well.
 These courses are integrated with central first year courses in Mathematics and Computing. 
+
+
 
 All three new courses include experiments which can be integrated
 with a numerical perspective using applications on smartphones and
@@ -52,7 +54,7 @@ experimental discipline we introduce also a new course on Statistics,
 Probability and Data Analysis for Physicists in the second
 semester. This course aims at a more coherent introduction of central
 elements from statistics needed in theoretical and experimental
-studies.
+studies. 
 
 
 ===== Present situation with description of courses, bachelor degree in Physics and Astronomy  =====
@@ -70,7 +72,7 @@ All courses are scaled to ten ECTS ("European Credit Transfer and Accumulation  
 |---------|
 
 
-Present content (learning outcomes)
+Present content (mainly learning outcomes)
 
 === Fall semester ===
 
@@ -140,14 +142,16 @@ content will not deviate too much from the above. The learning
 otucomes of the programming course IN1900 are also expected to remain
 the same.
 
-
-This opens up for a coherent first year in Physics and Astronomy where
-the aim is to integrate theory, computations and experiments in a
-coherent way, including much of the same mathematical and
-computational aspects included in MAT-INF1100 and MEK1100 but now
-tailored to a Physics and Astronomy perspective, with a strong focus
-on an overarching understanding of the scientific method and its
-various elements.
+We think it is important that the DP and the ITA also perform a
+careful review and eventual revision of the scientific and pedagogical
+content of the bachelor program in Physics and Astronomy.  In this
+conncetion we would like to advocate for a coherent first year in
+Physics and Astronomy where the aim is to integrate theory,
+computations and experiments in a coherent way, including much of the
+same mathematical and computational aspects included in MAT-INF1100
+and MEK1100 but now tailored to a Physics and Astronomy perspective,
+with a strong focus on an overarching understanding of the scientific
+method and its various elements.
 
 All three new courses will include experiments which can be integrated
 with a numerical perspective using applications on smartphones and
@@ -162,9 +166,9 @@ devices (laptops/PCs/Tablets) for further analyses, interpretations and discussi
 
 To achieve this integration, we propose three new courses
 
-o FYS11XX Mechanics and Modeling
-o FYS12XX Classical Mechanics
-o FYS13XX Statistics, probability and data analysis for physicists
+o FYS111X Mechanics and Modeling
+o FYS112X Classical Mechanics
+o FYS113X Statistics, probability and data analysis for physicists
 
 The possible content is described below. 
 The first year of study could then look like this if we aim at keeping courses of 10 ECTS. There is also the possibility to modularize these topics in units of 5 ECTS or 7.5 ECTS.
@@ -172,17 +176,17 @@ The first year of study could then look like this if we aim at keeping courses o
 |---------|
 | _First semester, Fall_ |
 |---------|
-| MAT 1100  | FYS11XX Mechanics and Modeling | IN1900 |
+| MAT 1100  | FYS111X Mechanics and Modeling | IN1900 |
 |---------|
 | _Second  semester, Spring_ |
 |---------|
-| MAT 1110  | FYS12XX Classical Mechanics | FYS13XX Statistics, probability and data analysis for physicists |
+| MAT 1110  | FYS112X Classical Mechanics | FYS113X Statistics, probability and data analysis for physicists |
 |---------|
 
 
 ===== Specific content of new courses =====
 
-===  FYS11XX Mechanics and Modeling ===
+===  FYS111X Mechanics and Modeling ===
 
 The Mechanics and Modeling course integrates central elements from MAT-INF1100 and FYS-MEK1100. The basic Mechanics content from FYS-MEK1100 is kept, that is we focus on elementary Newtonian mechanics  and students will (optimally covered by chapters 1-13 of Malthe-Sørenssen)
 
@@ -196,48 +200,52 @@ These concepts will be integrated with a computational approach where central al
  * are familiar with the general limitations of numerical models for solving differential equations and integrals. Central methods for solving differential equations are the family of Euler- and modified Euler methods, the Velocity Verlet method and the family of Runge-Kutta methods. For integrals, standard Newton-Cotes quadrature methods like the midpoint rule, the Trapezoidal and Simpson's rule will be presented. 
  * can derive simple mathematical models for practical problems using derivatives, integrals and different kinds of equations;
 
-In addition this course will include a set of selected simple experiments using the accelerometer on a standard smartphone. Students will then transfer the data to their own laptops/PCs/Tablets and perform a final analysis of the data such as calculating the velocity and the position based on the measured acceleration. The uncertainties with the measurements will be addressed in the second semester in the course FYS13XX. 
+In addition this course will include a set of selected simple experiments using the accelerometer on a standard smartphone. Students will then transfer the data to their own laptops/PCs/Tablets and perform a final analysis of the data such as calculating the velocity and the position based on the measured acceleration. The uncertainties with the measurements will be addressed in the second semester in the course FYS113X. 
 
 This course is integrated with IN1900 and MAT1100. 
 
 
 
-=== FYS12XX Classical Mechanics ===
+=== FYS112X Classical Mechanics ===
 
-This course is a continuation of FYS11XX and includes more
-advanced topics tailored to Physics and Astronomy students. The
+This course is a continuation of FYS111X and includes more
+advanced topics tailored explicitely to Physics and Astronomy students. The
 integration of central theoretical, computational and experimental elements as well as a coordination
-with FYS13XX and MAT1110 plays an important role. In addition to more advanced topics in mechanics not discussed in FYS-MEK1100, this course includes elements from MEK1100.
+with FYS113X and MAT1110 plays an important role. In addition to more advanced topics in mechanics not discussed in FYS-MEK1100, this course includes elements from MEK1100.
 
-The topics are
+Possible topics are
 
-* Repetition of central elements from FYS11XX, Newton's laws, conservation laws and solutions of equations of motion
+* Repetition of central elements from FYS111X, Newton's laws, conservation laws and solutions of equations of motion, analytically and numerically
 * Variational and Lagrangian Calculus with examples and derivation of equations of motion
 * Two-body problems and central forces, Kepler's laws, Gravitational problems, classical two-body scattering
-* Oscillations, Driven and damped oscillations, coupled oscillations and Fourier series
+* Oscillations, Driven and damped oscillations, coupled oscillations and Fourier series. Numerical and analytical solutions of equations of motion.
 * Mechanics and Equations of motion in non-inertial frames, accelerating and rotating frames, Coriolis and Centrifugal forces. Numerical and analytical solutions of equations of motion.
 * Rigid body kinematics and Dynamics. Numerical and analytical solutions of equations of motion.
 * Special Relativity
-* Hamilton's principle and Hamiltonian mechanics. Understanding important symplectic differential equations and energy conservation.
+* Tentative (could also be deferred to FYS3120) Hamilton's principle and Hamiltonian mechanics. Understanding important symplectic differential equations and energy conservation.
 * Basic elements from fluid mechanics, mass conservation equation and the equation of motion of fluids, Bernoulli´s equation for stationary ideal liquid flow, heat and temperature computations with convection and Fourier´s law. 
 * Knowledge of scaling, the significance of physical units and dimensionless parameters
 * Gradient and directional derivative, divergence and curl, equiscalar surfaces, field lines, curve integrals and circulation, surface integrals and flux, pressure force, particle derivative, in Cartesian and curvilinear coordinates, and have knowledge of the physical interpretation of these quantities
 * Basic understanding of Gauss and Stokes theorems in mechanics examples
 * can use the computer to visualize scalar and vector fields and to do numerical computations of fields
-* _Discuss which experiments to include_!
+* _Discuss which experiments to include_! See also next course.
 
-=== FYS13XX Statistics, probability and data analysis for physicists ===
+=== FYS113X Statistics, probability and data analysis for physicists ===
 
 These topics have normally been taught in a scattered way in different
 courses. This means that the students are never exposed to a coherent
-view of central elements of probability theory, statistics and data
-analysis. The aim here is to establish such a course, integrating the
-needed statistical theory with computations and analysis of
-theoretical simulations and experimental results. Central topics are
+view on central elements of probability theory, statistics and data
+analysis. The results is often a lack of understanding of central
+elements in the analysis of experimental and theoretical data. The aim
+here is to establish such a course, integrating the needed statistical
+theory with computations and analysis of theoretical simulations and
+experimental results. Moreover, it allows us to focus on central
+aspects of data analysis with emphasis on  physics and astronomy and simpler machine learning
+algorithms. Central topics are
 
 o Basic concepts
  * Randomness and probability, basic principles
- * Distributions, moments and errors. Central concepts like moments and essential distributions (Gaussian, Binomial, Poisson, uniform, exponential, log-normal etc), central limit theorem
+ * Distributions, moments and errors. Central concepts like moments, errors and essential distributions (Gaussian, Binomial, Poisson, uniform, exponential, log-normal etc), central limit theorem
 o Distributions in the physical world
  * Distributions in the physical world, examples from different types of experiments
  * Confidence intervals
@@ -254,8 +262,60 @@ o Frequentist inference and simple Machine Learning algorithms
  * Decision trees and Random forests
  * Simple Neural networks
 
-Need to discuss which experiments we can do that can be integrated with FYS12XX. 
+Need to discuss which experiments we can do that can be integrated
+with FYS113X.  A dedicated workshop which addresses possible
+experiments in FYS111X, FYS112X and FYS113X is planned for fall (late)
+2020.
+
+=====  Coordination with other programs =====
+
+The course FYS-MEK1100 has also served as a recommened or compulsory course in other bacheloer of science programs. These are the
+o "Electronics, informatics and Technology, fourth semester":"https://www.uio.no/studier/program/elektronikk-it/oppbygging/"
+o "Geophysics and Climate, second semester":"https://www.uio.no/studier/program/geofysikk/oppbygging/"o "Geology and Geography, second semester":"https://www.uio.no/studier/program/geologi/oppbygging/"   o "Mathematics and Physics, fourth semester":"https://www.uio.no/studier/program/matematikk-informatikk/studieretninger/matematikk-fysikk/oppbygging/" 
+o "Mechanics and technology, fourth semester":"https://www.uio.no/studier/program/matematikk-informatikk/studieretninger/mekanikk-teknologi/oppbygging/"
+o "Materials science, second semester":"https://www.uio.no/studier/program/materialvitenskap/oppbygging/"
+o Educational Master program (Lektorprogrammet).
+
+An alternative here is that the new course FYS111X is offered both
+during the fall and during the spring semester. Physics and
+Astronomy students will follow the fall variant while the other
+educational programs are offered the spring variant. FYS111X has to a
+large extent many of the same central elements included in
+FYS-MEK1100.
+
+A careful revision may however be needed in order to accomodate the needs of these other programs.
 
 
+===== Education Research and Innovation =====
 
-    
+What is presented above aims at innovating the way we teach physics,
+integrating concepts and topics normally scattered across many
+different (and often disconnected) university courses and  opening up
+also for innovative approaches to university education and studies.
+
+The overarching motivation is to allow for a deeper
+understanding of the scientific method at an earlier stage in our
+education by integrating theory, experiments and computations. This has the potential
+to elucidate essential stages of the scientific process.
+
+There are several other interesting aspects which can define new
+educational research projects, in particular an integration of flipper
+classrooms that normally allow for a tighter connection between
+students and teachers (faculty, learning assistants and teaching
+assistants).
+
+Exploring flipped classrooms may involve the development of new
+digital learning material of high quality, such as videos, podcasts
+and improved learning material. This could also include developing or
+adapting curricula and learning objectives that are meaningful in
+online settings.
+
+Integrating thus the introduction of a new first year for the Physics
+and Astronomy program with existing and planned research in close
+collaboration with the Center for Computing in Science Education has
+the potential to improve considerably the quality of our education. At
+present, there are no Physics undergraduate programs (to our
+knowledge) which integrate from day one theory, computations and
+experiments.  As such, this proposal brings the Computing in Science
+Education initiative (which started with the reform in 2003) to a
+higher and new level.
