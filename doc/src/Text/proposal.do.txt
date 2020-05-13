@@ -46,7 +46,7 @@ with a numerical perspective using applications on smartphones and
 hardware like "Arduino":"https://en.wikipedia.org/wiki/Arduino".  A
 central benefit here is that students can carry out experiments at
 home or outside a standard lab environment. Furthermore, the
-integration of experiments with a programming perspectives allows
+integration of experiments with a programming perspective allows
 students to carry out experiments and upload data to their computing
 devices (laptops/PCs/Tablets) for further analyses, interpretations
 and discussions.  To strengthen the understanding of Physics being an
@@ -125,7 +125,7 @@ o "MEK1100":"https://www.uio.no/studier/emner/matnat/math/MEK1100/index-eng.html
  * can use the computer to visualize scalar and vector fields and to do numerical computations of fields;
  * have knowledge about the mass conservation equation and the equation of motion of fluids, Bernoulli´s equation for stationary ideal liquid flow, heat and temperature computations with convection and Fourier´s law.
 
-o "FYS-MEK":"https://www.uio.no/studier/emner/matnat/fys/FYS-MEK1110/index-eng.html"
+o "FYS-MEK1100":"https://www.uio.no/studier/emner/matnat/fys/FYS-MEK1110/index-eng.html"
 
  * be able to analyze forces that act on objects, apply Newton’s laws to determine the equations of motion, and solve these both analytically and numerically,
  * be able to describe the rotational motion of rigid bodies using torque, moment of inertia, and angular momentum, and apply Newton’s second law for rotational motion to solve the equations of motion,
@@ -142,7 +142,7 @@ content will not deviate too much from the above. The learning
 otucomes of the programming course IN1900 are also expected to remain
 the same.
 
-We think it is important that the DP and the ITA also perform a
+We think it is important that the department of Physics  and ITA perform a
 careful review and eventual revision of the scientific and pedagogical
 content of the bachelor program in Physics and Astronomy.  In this
 conncetion we would like to advocate for a coherent first year in
@@ -193,7 +193,7 @@ The Mechanics and Modeling course integrates central elements from MAT-INF1100 a
  * be able to analyze forces that act on objects, apply Newton’s laws to determine the equations of motion, and solve these both analytically and numerically;
  * be able to apply conservation laws for mechanical energy, momentum, and angular momentum to solve static and dynamic problems and to analyze collisions between bodies.
 
-These concepts will be integrated with a computational approach where central algorithms for solving equations of motion of motion are introduced. This includes elements from MAT-INF1100 central to studies of differential equations and numerical solutions of integrals.  To be more explicit this means that the students 
+These concepts will be integrated with a computational approach where central algorithms for solving equations of motion are introduced. This includes elements from MAT-INF1100 central to studies of differential equations and numerical solutions of integrals.  To be more explicit this means that the students 
  * are familiar with the basic properties of integer and real numbers, how they are represented in a computer, and limitations of the representations;
  * can find formulas for the solution of some difference and differential equations;
  * are familiar with and can program numerical methods for approximate calculation of the derivative and the integral of general functions, as well as approximate solutions of equations, difference equations and differential equations;
