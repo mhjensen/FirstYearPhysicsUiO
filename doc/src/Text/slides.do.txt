@@ -1,0 +1,390 @@
+TITLE: First year in Physics at the University of Oslo
+AUTHOR: Joakim Bergli at Department of Physics, University of Oslo, Norway
+AUTHOR: Nina Frederike J. Edin at Department of Physics, University of Oslo, Norway
+AUTHOR: "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" at Department of Physics and Astronomy and National Superconducting Cyclotron Laboratory/Facility for Rare Ion Beams, Michigan State University, USA & Department of Physics and Center For Computing in Science Education, University of Oslo, Norway
+DATE: today
+
+
+!split
+===== Background  =====
+
+Students of the Physics and Astronomy bachelor program as well as
+faculty at the department of Physics (DP) and Institute of Theoretical
+Astrophysics (ITA) have often remarked that there is a lack of Physics
+topics in the first year of study, and in particular during the first
+semester.
+
+The setup of the first year of study is essentially the same
+since the fall semester of 2003, when the "Bologna process":"https://en.wikipedia.org/wiki/Bologna_Process"
+("Kvalitetsreformen":"https://no.wikipedia.org/wiki/Kvalitetsreformen") was introduced in Norway.
+
+Moreover, during the
+last decade we have seen several changes in competences and skills of the
+incoming students as well as improved computational and experimental
+software and hardware. In addition, pedagogical research and technological
+innovations with respect to alternative ways of organizing lectures
+such as flipped classrooms and more, are all topics we believe should
+be reflected in the way we organize our bachelor program and higher education in
+Physics and Astronomy. With the center of excellence in higher education _Center for Computing in Science Education_, we have also the possibility to accompany pedagogical changes with ongoing and future  research programs on university education. 
+
+
+!split
+===== A new first year =====
+
+!bblock
+
+_We propose here 
+a novel and new first year in Physics and Astronomy where
+the aim is to integrate theory, computations and experiments in a
+coherent way_. Start fall 2022.
+
+!eblock
+
+The first year
+includes much of the same mathematical and
+computational aspects included in MAT-INF1100 and MEK1100 but now
+tailored to a Physics and Astronomy perspective, with a strong focus
+on an overarching understanding of the scientific method and its
+various elements from day one.
+We propose three new courses, with a great potential for pedagogical innovations and pedagogical research as well.
+These courses are integrated with central first year courses in Mathematics and Computing. 
+
+!split
+===== Integrating theory, experiment and computation =====
+
+All three new courses include experiments which can be integrated
+with a numerical perspective using applications on smartphones and
+hardware like "Arduino":"https://en.wikipedia.org/wiki/Arduino".
+"An example on studies of harmonic motion is presented here":"https://aapt.scitation.org/doi/10.1119/1.4865518".
+
+A central benefit here is that students can carry out experiments at
+home or outside a standard lab environment. Furthermore, the
+integration of experiments with a programming perspective allows
+students to carry out experiments and upload data to their computing
+devices (laptops/PCs/Tablets) for further analyses, interpretations
+and discussions.  To strengthen the understanding of Physics being an
+experimental discipline we introduce also a new course on Statistics,
+Probability and Data Analysis for Physicists in the second
+semester. This course aims at a more coherent introduction of central
+elements from statistics needed in theoretical and experimental
+studies. 
+
+!split
+===== Present situation with description of courses, bachelor degree in Physics and Astronomy  =====
+
+All courses are scaled to ten ECTS ("European Credit Transfer and Accumulation  System":"https://ec.europa.eu/education/resources-and-tools/european-credit-transfer-and-accumulation-system-ects_en").
+
+|---------|
+| _First semester, Fall_ |
+|---------|
+| MAT 1100  | MAT-INF1100 | IN1900 |
+|---------|
+| _Second  semester, Spring_ |
+|---------|
+| MAT 1110  | MEK1100 | FYS-MEK1100 |
+|---------|
+
+!split
+=== Fall semester, MAT1100 ===
+
+o "MAT1100":"https://www.uio.no/studier/emner/matnat/math/MAT1100/index-eng.html"
+ * are familiar with the complex numbers and can calculate with them on Cartesian and polar form;
+ * are familiar with the Completeness Principle for the real numbers and know how it is used in creating the theory of functions of one variable;
+ * know how to define conituity, limits, derivatives, and integrals precisely, and can compute limits, derivatives, and integrals of functions of one variable;
+ * are familiar with vectors and matrices and can use them for simple calculations;
+ * know what functions of several variables are, can determine whether they are continuous and differentiable, and can compute and interpret directional derivatives and partial derivatives;
+ * can use the theory in the course to solve modeling problems, especially problems concerning integration, optimization, and related rates.
+
+!split
+=== Fall semester, MAT-INF1100 ===
+
+o "MAT-INF1100":"https://www.uio.no/studier/emner/matnat/math/MAT-INF1100/index-eng.html"
+
+ * are familiar with the basic properties of integer and real numbers, how they are represented in a  * computer, and limitations of the representations;
+ * can find formulas for the solution of some difference and differential equations;
+ * are familiar with and can program numerical methods for approximate calculation of the derivative and the integral of general functions, as well as approximate solutions of equations, difference equations and differential equations;
+ * are familiar with the general limitations of numerical methods discussed in the course and are able to estimate their errors using Taylor polynomials with remainder and the principles for representing real numbers in a computer;
+ * can derive simple mathematical models for practical problems using derivatives, integrals and different kinds of equations;
+ * are able to carry out proofs by induction, argue out simple, mathematical arguments, and present your reasoning in a clear and transparent way with suitable notation and terminology.    
+
+Most of these elements can be integrated in the new first semester mechanics course described below.
+
+!split
+=== Fall semester, IN1900 ===
+
+o "IN1900":"https://www.uio.no/studier/emner/matnat/ifi/IN1900/index-eng.html"
+
+ * be able to write programs that solve math problems you encounter in MAT-INF1100 – Modelling and Computations and MAT1100 – Calculus.
+ * have basic skills in Python programming using data structures, functions, classes, objects, modules and vectorized calculations
+ * be able to create program sketches and algorithms based on a mathematical specification of a science problem
+ * be able to create solutions to minor real issues on a computer with user interaction, graphics (plot, animations) and storage/reading of data to/from disk
+ * be able to use a variety of Python modules in self-interaction interaction to integrate, derive, find zeroes, calculate boundary values and sequences, and solve differential and differential equations from physics, biology and finance
+ * be able to construct, find and correct errors in your own programs
+ * be able to construct tests to verify that computer programs work properly
+
+!split
+=== Spring semester, MAT1110 ===
+
+o "MAT1110":"https://www.uio.no/studier/emner/matnat/math/MAT1110/index-eng.html"
+
+ * can parametrize curves and surfaces and use these representations to create graphical figures and to compute arc length, line integrals and surface area;
+ * know the definition of double and triple integrals, can calculate such integrals by means of different coordinate representations, and use them to solve practical problems;
+ * can solve theoretical and practical optimization problems with and without constraints;
+ * are familiar with the completeness property of Euclidean spaces, know how they form a foundation for numerical methods, and can write programs in MATLAB or Python to find zeros and fixed points of functions;
+ * master Gauss elimination, are familiar with the concepts of linear independence and basis, and can find eigenvalues and eigenvectors and use them to analyze practical problems from both an analytical and a numerical perspective;
+ * know what it means for a series to converge, can use tests to decide convergence and find domains of convergence, and can determine the Taylor series of a function;
+ * can carry out simple mathematical arguments and computations and present them in a clear and coherent way with suitable notation and terminology.
+
+!split
+=== Spring semester, MEK1100 ===
+
+o "MEK1100":"https://www.uio.no/studier/emner/matnat/math/MEK1100/index-eng.html"
+
+ * have knowledge about scaling, the significance of physical units and dimensionless parameters;
+ * can compute gradient and directional derivative, divergence and curl, equiscalar surfaces, field lines, curve integrals and circulation, surface integrals and flux, pressure force, particle derivative, in Cartesian and curvilinear coordinates, and have knowledge of the physical interpretation of these quantities;
+ * can apply Gauss and Stokes theorems;
+ * can apply potential and stream functions and have knowledge about potential flow;
+ * can use the computer to visualize scalar and vector fields and to do numerical computations of fields;
+ * have knowledge about the mass conservation equation and the equation of motion of fluids, Bernoulli´s equation for stationary ideal liquid flow, heat and temperature computations with convection and Fourier´s law.
+
+Several elements will be included in the new second semester mechanics course. Other elements are included in MAT1110.
+
+!split
+=== Spring semester, FYS-MEK1100 ===
+
+o "FYS-MEK1100":"https://www.uio.no/studier/emner/matnat/fys/FYS-MEK1110/index-eng.html"
+
+ * be able to analyze forces that act on objects, apply Newton’s laws to determine the equations of motion, and solve these both analytically and numerically,
+ * be able to describe the rotational motion of rigid bodies using torque, moment of inertia, and angular momentum, and apply Newton’s second law for rotational motion to solve the equations of motion,
+ * be able to apply conservation laws for mechanical energy, momentum, and angular momentum to solve static and dynamic problems and to analyze collisions between bodies,
+ * know the definitions that are relevant for elasticity theory,
+ * be able to apply Lorentz transformations for position and velocity and explain length contraction and time dilation,
+ * be able to apply different strategies to solve specific problems, introduce approximations if necessary, and interpret results and discuss these in a wider context.
+
+Several elements (Malthe-Sørenssen's textbook chapters 1-13) will be transferred to the first semester and will integrate the essential elements from MAT-INF1100
+
+!split
+===== Revised first year =====
+
+The department of Mathematics is planning a revision of the content of
+MAT1100 and MAT1110. The most likely scenario is that the basic
+content will not deviate too much from the above. The learning
+otucomes of the programming course IN1900 are also expected to remain
+the same.
+
+We think it is important that the department of Physics  and ITA perform a
+careful review and eventual revision of the scientific and pedagogical
+content of the bachelor program in Physics and Astronomy.  In this
+conncetion we would like to advocate for a coherent first year in
+Physics and Astronomy where the aim is to integrate theory,
+computations and experiments in a coherent way, including much of the
+same mathematical and computational aspects included in MAT-INF1100
+and MEK1100 but now tailored to a Physics and Astronomy perspective,
+with a strong focus on an overarching understanding of the scientific
+method and its various elements.
+
+!split
+===== The new courses =====
+
+All three new courses will include experiments which can be integrated
+with a numerical perspective using applications on smartphones and
+kits like "Arduino":"https://en.wikipedia.org/wiki/Arduino".  A
+central benefit here is that students can carry out experiments at
+home or outside a standard lab environment. Furthermore, the
+integration of experiments with a programming perspectives allows
+students to carry out experiments and upload data to their computing
+devices (laptops/PCs/Tablets) for further analyses, interpretations and discussions.
+
+!split
+===== The new first year =====
+
+To achieve this integration, we propose three new courses
+
+o FYS111X Mechanics and Modeling
+o FYS112X Classical Mechanics
+o FYS113X Statistics, probability and data analysis for physicists
+
+The possible content is described below. 
+The first year of study could then look like this if we aim at keeping courses of 10 ECTS. There is also the possibility to modularize these topics in units of 5 ECTS or 7.5 ECTS.
+
+|---------|
+| _First semester, Fall_ |
+|---------|
+| MAT 1100  | FYS111X Mechanics and Modeling | IN1900 |
+|---------|
+| _Second  semester, Spring_ |
+|---------|
+| MAT 1110  | FYS112X Classical Mechanics | FYS113X Statistics, probability and data analysis for physicists |
+|---------|
+
+
+!split
+=====  FYS111X Mechanics and Modeling, Fall semester, first year =====
+
+The Mechanics and Modeling course integrates central elements from MAT-INF1100 and FYS-MEK1100. The basic Mechanics content from FYS-MEK1100 is kept, that is we focus on elementary Newtonian mechanics  and students will (optimally covered by chapters 1-13 of Malthe-Sørenssen)
+
+ * be able to analyze forces that act on objects, apply Newton’s laws to determine the equations of motion, and solve these both analytically and numerically;
+ * be able to apply conservation laws for mechanical energy, momentum, and angular momentum to solve static and dynamic problems and to analyze collisions between bodies.
+
+!split
+===== Details =====
+
+These concepts will be integrated with a computational approach where central algorithms for solving equations of motion are introduced. This includes elements from MAT-INF1100 central to studies of differential equations and numerical solutions of integrals.  To be more explicit this means that the students 
+ * are familiar with the basic properties of integer and real numbers, how they are represented in a computer, and limitations of the representations;
+ * can find formulas for the solution of some difference and differential equations;
+ * are familiar with and can program numerical methods for approximate calculation of the derivative and the integral of general functions, as well as approximate solutions of equations, difference equations and differential equations;
+ * are familiar with the general limitations of numerical models for solving differential equations and integrals. Central methods for solving differential equations are the family of Euler- and modified Euler methods, the Velocity Verlet method and the family of Runge-Kutta methods. For integrals, standard Newton-Cotes quadrature methods like the midpoint rule, the Trapezoidal and Simpson's rule will be presented. 
+ * can derive simple mathematical models for practical problems using derivatives, integrals and different kinds of equations;
+
+In addition this course will include a set of selected simple experiments using the accelerometer on a standard smartphone. Students will then transfer the data to their own laptops/PCs/Tablets and perform a final analysis of the data such as calculating the velocity and the position based on the measured acceleration. The uncertainties with the measurements will be addressed in the second semester in the course FYS113X. 
+
+This course is integrated with IN1900 and MAT1100. 
+
+
+!split
+=====  FYS112X Classical Mechanics, second semester first year =====
+
+This course is a continuation of FYS111X and includes more
+advanced topics tailored explicitely to Physics and Astronomy students. The
+integration of central theoretical, computational and experimental elements as well as a coordination
+with FYS113X and MAT1110 plays an important role. In addition to more advanced topics in mechanics not discussed in FYS-MEK1100, this course includes elements from MEK1100.
+
+
+!split
+===== Details =====
+
+* Repetition of central elements from FYS111X, Newton's laws, conservation laws and solutions of equations of motion, analytically and numerically
+* Variational and Lagrangian Calculus with examples and derivation of equations of motion
+* Two-body problems and central forces, Kepler's laws, Gravitational problems, classical two-body scattering
+* Oscillations, Driven and damped oscillations, coupled oscillations and Fourier series. Numerical and analytical solutions of equations of motion.
+* Mechanics and Equations of motion in non-inertial frames, accelerating and rotating frames, Coriolis and Centrifugal forces. Numerical and analytical solutions of equations of motion.
+* Rigid body kinematics and Dynamics. Numerical and analytical solutions of equations of motion.
+* Special Relativity
+* Tentative (could also be deferred to FYS3120) Hamilton's principle and Hamiltonian mechanics. Understanding important symplectic differential equations and energy conservation.
+* Continuum mechanics with wave equation, stress and strain tensor, Hooke's law and equations of motion for an elastic solid
+* Basic elements from fluid mechanics, mass conservation equation and the equation of motion of fluids, Bernoulli´s equation for stationary ideal liquid flow, heat and temperature computations with convection and Fourier´s law. 
+* Knowledge of scaling, the significance of physical units and dimensionless parameters
+* Gradient and directional derivative, divergence and curl, equiscalar surfaces, field lines, curve integrals and circulation, surface integrals and flux, pressure force, particle derivative, in Cartesian and curvilinear coordinates, and have knowledge of the physical interpretation of these quantities
+* Basic understanding of Gauss and Stokes theorems in mechanics examples
+* can use the computer to visualize scalar and vector fields and to do numerical computations of fields
+* _Discuss which experiments to include_! See also next course.
+
+!split
+===== FYS113X Statistics, probability and data analysis for physicists =====
+
+These topics have normally been taught in a scattered way in different
+courses. This means that the students are never exposed to a coherent
+view on central elements of probability theory, statistics and data
+analysis. The results is often a lack of understanding of central
+elements in the analysis of experimental and theoretical data. The aim
+here is to establish such a course, integrating the needed statistical
+theory with computations and analysis of theoretical simulations and
+experimental results. Moreover, it allows us to focus on central
+aspects of data analysis with emphasis on  physics and astronomy and simpler machine learning
+algorithms.
+
+!split
+===== Details =====
+
+
+o Basic concepts
+ * Randomness and probability, basic principles
+ * Distributions, moments and errors. Central concepts like moments, errors and essential distributions (Gaussian, Binomial, Poisson, uniform, exponential, log-normal etc), central limit theorem
+o Distributions in the physical world
+ * Distributions in the physical world, examples from different types of experiments
+ * Confidence intervals
+ * Statistics with binomial, Poisson and Gaussian distributions
+ * Random processes and distributions arising from these
+ * Random numbers and Monte Carlo methods
+o Probabilistic inference
+ * Hypothesis testing and Bayesian approach to probability
+ * Parameter estimation
+ * Correlation testing and covariance
+ * Computations and model fitting
+o Frequentist inference and simple Machine Learning algorithms
+ * Linear and Logistic regression, regression and classification problems
+ * Decision trees and Random forests
+ * Simple Neural networks
+
+Need to discuss which experiments we can do that can be integrated
+with FYS113X.  A dedicated workshop which addresses possible
+experiments in FYS111X, FYS112X and FYS113X may be needed. 
+
+
+!split
+=====  Coordination with other programs =====
+
+The course FYS-MEK1100 has also served as a recommened or compulsory course in other bachelor of science programs. These are the
+o "Electronics, informatics and Technology, fourth semester":"https://www.uio.no/studier/program/elektronikk-it/oppbygging/"
+o "Geophysics and Climate, second semester":"https://www.uio.no/studier/program/geofysikk/oppbygging/"o "Geology and Geography, second semester":"https://www.uio.no/studier/program/geologi/oppbygging/"   o "Mathematics and Physics, fourth semester":"https://www.uio.no/studier/program/matematikk-informatikk/studieretninger/matematikk-fysikk/oppbygging/" 
+o "Mechanics and technology, fourth semester":"https://www.uio.no/studier/program/matematikk-informatikk/studieretninger/mekanikk-teknologi/oppbygging/"
+o "Materials science, second semester":"https://www.uio.no/studier/program/materialvitenskap/oppbygging/"
+o Educational Master program (Lektorprogrammet).
+
+An alternative here is that the new course FYS111X is offered both
+during the fall and during the spring semester. Physics and
+Astronomy students will follow the fall variant while the other
+educational programs are offered the spring variant. FYS111X has to a
+large extent many of the same central elements included in
+FYS-MEK1100.
+
+A careful revision may however be needed in order to accomodate the needs of these other programs.
+
+!split
+===== Education Research and Innovation =====
+
+What is presented above aims at innovating the way we teach physics,
+integrating concepts and topics normally scattered across many
+different (and often disconnected) university courses and  opening up
+also for innovative approaches to university education and studies.
+
+The overarching motivation is to allow for a deeper
+understanding of the scientific method at an earlier stage in our
+education by integrating theory, experiments and computations. This has the potential
+to elucidate essential stages of the scientific process.
+
+There are several other interesting aspects which can define new
+educational research projects, in particular an integration of flipped
+classrooms that normally allow for a tighter connection between
+students and teachers (faculty, learning assistants and teaching
+assistants).
+
+!split
+===== Exploring new ways of teaching =====
+
+Exploring flipped classrooms may involve the development of new
+digital learning material of high quality, such as videos, podcasts
+and improved learning material. This could also include developing or
+adapting curricula and learning objectives that are meaningful in
+online settings.
+
+_Integrating thus the introduction of a new first year for the Physics
+and Astronomy program with existing and planned research in close
+collaboration with the Center for Computing in Science Education has
+the potential to improve considerably the quality of our education. At
+present, there are no Physics undergraduate programs (to our
+knowledge) which integrate from day one theory, computations and
+experiments.  As such, this proposal brings the Computing in Science
+Education initiative (which started with the reform in 2003) to a
+higher and new level._
+
+
+!split
+=====  Discussions and group work =====
+
+It is simportant that the first year is seen as a collective effort for the whole department.
+
+Topics to be discussed:
+* Discuss the proposed scientific content (topics here are our suggestions)
+  o Pros and cons
+  o Topics that are missing. Too much or too little?
+  o Are there missing courses? 
+* Organization of first year  
+  o How do we organize lectures and recitation classes? Flipped classrooms? Project based work?
+  o How do we train learning assistants, teaching assistants and teachers in order to implement the above changes?
+  o How do we coordinate the newly proposed first year courses with other bachelor programs?
+    * Should the first semester mechanics course be offered both semester?
+
+* Possible changes in the second and the third years?
+  o Should changes in FYS1112x affect FYS1120, FYS2130, FYS2140, FYS2150, FYS2160 and FYS3140? Are there clear changes?
+  o New courses? 
