@@ -9,3 +9,5 @@ tailored to a Physics and Astronomy perspective, with a strong focus
 on an overarching understanding of the scientific method and its
 various elements.
 
+The discussion slides for the meeting on October 15 can be found at https://mhjensen.github.io/FirstYearPhysicsUiO/doc/pub/slides/html/slides-reveal.html
+
