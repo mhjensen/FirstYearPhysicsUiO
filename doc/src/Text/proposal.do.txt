@@ -57,6 +57,9 @@ elements from statistics needed in theoretical and experimental
 studies. 
 
 
+The slides for the presentation during the meeting of October 15 are here URL:"https://mhjensen.github.io/FirstYearPhysicsUiO/doc/pub/slides/html/slides-reveal.html"
+
+
 ===== Present situation with description of courses, bachelor degree in Physics and Astronomy  =====
 
 All courses are scaled to ten ECTS ("European Credit Transfer and Accumulation  System":"https://ec.europa.eu/education/resources-and-tools/european-credit-transfer-and-accumulation-system-ects_en").
